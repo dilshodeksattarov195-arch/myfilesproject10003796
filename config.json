@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercncrypt",
+        "uuid": 7523672,
+        "checksum": "zg5sp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
